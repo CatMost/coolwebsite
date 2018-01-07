@@ -1,0 +1,17 @@
+/* Cat stuff here */
+
+
+body {
+	background-color: #7C0303;
+	padding: 100px;
+	color: #000000;
+	/* background-image: url(images/lowPolyBackground2.jpeg); */
+}
+
+a{
+	color: #000000;
+	text-decoration: none;
+}
+
+/* when we hover over the A eliment it changed to a different color */
+a:hover{ color: #b23c3c;}
